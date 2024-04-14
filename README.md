@@ -8,3 +8,13 @@
 
 # Live Demo 🚀
 https://malayjoshhi.github.io/OCTANET_APRIL-task2/
+
+# Contact
+
+If you have any questions, suggestions, or feedback, you can reach out to the project maintainer:
+
+    Name : Malay Joshi
+    Email: myjobbworkk@gmail.com
+
+📝 License
+This project is MIT licensed.
